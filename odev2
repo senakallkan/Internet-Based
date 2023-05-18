@@ -1,0 +1,10 @@
+<img src="resim.jpg" alt="Açıklama metni">
+
+<img src="harita.jpg" alt="Harita" usemap="#harita">
+<map name="harita">
+  <area shape="circle" coords="100,100,50" href="sayfa1.html" alt="Bölge 1">
+  <area shape="rect" coords="200,200,400,300" href="sayfa2.html" alt="Bölge 2">
+</map>
+
+<p style="color: #ff0000;">Bu paragraf kırmızı renkte.</p>
+<div style="background-color: #00ff00; width: 200px; height: 200px;"></div>
