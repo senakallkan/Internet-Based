@@ -1,0 +1,40 @@
+<input type="hidden" name="gizliAlan" value="Gizli değer">
+
+<input type="tel" name="telefonNumarasi" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890">
+
+<input type="email" name="emailAdresi" placeholder="ornek@orneksite.com">
+
+<input type="number" name="sayiDegeri" min="0" max="100" step="1">
+
+<input type="range" name="aralikDegeri" min="0" max="100" step="5">
+
+<input type="search" name="aramaKelimesi" placeholder="Ara...">
+
+<input type="image" src="resim.jpg" alt="Resim">
+
+<input type="week" name="haftaSecimi" min="2023-W01" max="2023-W52">
+
+<input type="url" name="websiteURL" placeholder="http://www.orneksite.com">
+
+<input type="url" name="websiteURL" placeholder="http://www.orneksite.com">
+
+<input type="datetime-local" name="tarihSaat" min="2023-01-01T00:00" max="2023-12-31T23:59">
+
+<input type="month" name="aySecimi" min="2023-01" max="2023-12">
+
+<input type="time" name="saatSecimi" min="00:00" max="23:59">
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="John Doe">
+  <meta name="description" content="Bu bir web sitesi açıklamasıdır.">
+  <meta name="keywords" content="HTML, CSS, JavaScript, web tasarım">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Örnek Web Sitesi</title>
+</head>
+<body>
+  <!-- Sayfa içeriği burada yer alır -->
+</body>
+</html>
