@@ -1,0 +1,10 @@
+<a href="https://www.example.com">Başka bir siteye yönlendir</a>
+<a href="/hedef-sayfa.html">Aynı site üzerindeki bir sayfaya yönlendir</a>
+
+<a href="tel:+1234567890">Numarayı ara</a>
+
+<a href="javascript:myFunction()">JavaScript'i çalıştır</a>
+
+<a href="mailto:info@example.com">E-posta gönder</a>
+
+<a href="https://www.example.com" target="_blank">Bağlantıyı yeni sekmede aç</a>
